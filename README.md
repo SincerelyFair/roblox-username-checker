@@ -1,3 +1,3 @@
-# roblox-username-checker
-a proxyless python script which checks for valid and taken roblox usernames
-fast and no rate limits
+# Roblox Available Usernames Checker
+a proxyless python script which efficiently checks for valid and taken roblox usernames using roblox API without rate limits.
+
